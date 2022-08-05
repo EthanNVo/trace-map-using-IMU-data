@@ -1,6 +1,7 @@
 # Final Project Trace Map
 
 Part of the Final Project of Pablo, Hector, William, and Ethan
+
 Takes accelerometer and gyroscope data from an iPhone and outputs an array of positions along with an image of those positions plotted. 
 
 The algorithm uses Fusion to obtain a measurement of acceleration in the Earth coordinate frame from gyroscope and accelerometer data.
