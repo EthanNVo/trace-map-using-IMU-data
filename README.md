@@ -12,4 +12,4 @@ Included below is an example of a trace map produced from data that is also incl
 
 | [![newTestData.json](https://media.discordapp.net/attachments/997235042826866780/1003455657514651718/unknown.png) |
 |:--:|
-| [Tracing position of user while using app (newTestData.json)]|
+| Tracing position of user while using app (newTestData.json)|
