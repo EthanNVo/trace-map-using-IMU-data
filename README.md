@@ -10,10 +10,6 @@ The repository includes code for finding position from accelerometer and gyrosco
 
 Included below is an example of a trace map produced from data that is also included in the repository called newTestData.json
 
-| ![newTestData.json(https://media.discordapp.net/attachments/997235042826866780/1003455657514651718/unknown.png) |
-
-| Tracing position of user while using app (newTestData.json)|
-
 | ![newTestData.json](https://media.discordapp.net/attachments/997235042826866780/1003455657514651718/unknown.png) |
 |:--:|
 | [Tracing position of user while using app (newTestData.json) |
