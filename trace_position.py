@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-import matplotlib.pyplot as plt
 import scipy as sp
 from scipy.interpolate import interp1d
 from scipy import integrate
